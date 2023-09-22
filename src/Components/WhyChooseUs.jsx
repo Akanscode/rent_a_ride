@@ -9,7 +9,7 @@ const WhyChooseUs = () => {
               <div> 
                   <div className="grid  lg:gap-8 lg:grid-cols-2 items-center">
                       <div className="mt-6 lg:col-start-1 lg:row-start-1">
-					<Image src="/assets/Images/carImage1.png" width={600} height={400} alt="carimage" className="mx-auto rounded-full shadow-lg " />
+					<Image src="/assets/carImage1.png" width={600} height={400} alt="carimage" className="mx-auto rounded-full shadow-lg " />
 				</div>
 				<div className="lg:col-start-2">
 					<h3 className="text-2xl text-status-purple-80 font-bold tracking sm:text-3xl pt-5"> Why Choose Us</h3>

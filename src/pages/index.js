@@ -1,7 +1,7 @@
 import Hero from "@/Components/Hero";
 import HowItWorks from "@/Components/HowItWorks";
 import Head from "next/head";
-import WhyChooseUs from "@/Components/whyChooseUs";
+import WhyChooseUs from "@/Components/WhyChooseUs";
 import RentalDeal from "@/Components/RentalDeal";
 import Testimony from "@/Components/Testimony";
 
