@@ -6,7 +6,7 @@ const WhyChooseUs = () => {
   return (
   <section className="bg-pink-100/60 w-full">
           <div className="container w-full mx-auto">
-              <div>
+              <div> 
                   <div className="grid  lg:gap-8 lg:grid-cols-2 items-center">
                       <div className="mt-6 lg:col-start-1 lg:row-start-1">
 					<Image src="/assets/Images/carImage1.png" width={600} height={400} alt="carimage" className="mx-auto rounded-full shadow-lg " />
