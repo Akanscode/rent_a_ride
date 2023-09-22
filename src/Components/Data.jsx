@@ -1,5 +1,5 @@
-import {FaMapMarkerAlt, FaCalendarAlt, FaCar, FaWpforms, FaUserAlt, } from "react-icons/fa";
-import { FaTeamspeak } from "react-icons/fa"
+import { FaWpforms, } from "react-icons/fa6"
+import { FaTeamspeak,FaCar,FaUserAlt, FaCalendarAlt,FaMapMarkerAlt } from "react-icons/fa"
 
 
 export const logo = [

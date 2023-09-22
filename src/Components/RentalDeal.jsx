@@ -1,6 +1,6 @@
 import React from 'react'
 import { populardeal } from './Data';
-import {FaStar, FaEmpire,FaTruckField,FaUser,FaTimeline} from "react-icons/fa"
+import {FaStar} from "react-icons/fa"
 import Image from 'next/image';
 
 
